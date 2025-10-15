@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd2d939-4428-49e9-a160-bab05230116f" name="Changes" comment="Second class learnings">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-01_Python_Basics/Lab001_Python_Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex-01_Python_Basics/Lab001_Python_Hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="5dd2d939-4428-49e9-a160-bab05230116f" name="Changes" comment="Third class learnings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759975220894</updated>
       <workItem from="1759975235963" duration="2374000" />
-      <workItem from="1760493430899" duration="10489000" />
+      <workItem from="1760493430899" duration="10827000" />
     </task>
     <task id="LOCAL-00001" summary="Second class learnings">
       <option name="closed" value="true" />
@@ -104,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760497487785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third class learnings">
+      <option name="closed" value="true" />
+      <created>1760553133859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553133859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third class learnings">
+      <option name="closed" value="true" />
+      <created>1760553180720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553180720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second class learnings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second class learnings" />
+    <MESSAGE value="Third class learnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third class learnings" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab004_Variable_Names.coverage" NAME="Lab004_Variable_Names Coverage Results" MODIFIED="1760498239084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-01_Python_Basics" />
@@ -120,7 +134,7 @@
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab010_IQ.coverage" NAME="Lab010_IQ Coverage Results" MODIFIED="1760549307823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-01_Python_Basics" />
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab012_DataType.coverage" NAME="Lab012_DataType Coverage Results" MODIFIED="1760550110050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-03_Python_Literal" />
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab008_Multiple_Variables.coverage" NAME="Lab008_Multiple_Variables Coverage Results" MODIFIED="1760548925860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-01_Python_Basics" />
-    <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab019_Refer_Directorypath.coverage" NAME="Lab019_Refer_Directorypath Coverage Results" MODIFIED="1760552751000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-03_Python_Literal" />
+    <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab019_Refer_Directorypath.coverage" NAME="Lab019_Refer_Directorypath Coverage Results" MODIFIED="1760552884827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-03_Python_Literal" />
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab011_Literal.coverage" NAME="Lab011_Literal Coverage Results" MODIFIED="1760549648848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-03_Python_Literal" />
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab007_Maths.coverage" NAME="Lab007_Maths Coverage Results" MODIFIED="1760548586886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-01_Python_Basics" />
     <SUITE FILE_PATH="coverage/Pyatb6xLearning$Lab015_Strings.coverage" NAME="Lab015_Strings Coverage Results" MODIFIED="1760551706208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex-03_Python_Literal" />
