@@ -1,0 +1,1 @@
+print("Lakshmi",36,"Mandapaka","DIL",True,sep="*",end="_")

@@ -1,0 +1,2 @@
+long_var_name_is_created_here="Lokshi"
+print(long_var_name_is_created_here )
