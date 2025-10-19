@@ -6,11 +6,12 @@
 #o/p-string formatted out of area
 
 #Logic building formula
-radius=float(input("Enter your radius:\n "))
+radius=float(input("Enter your radius:\n"))
 pi=3.1476810
 
-area=pi*pow(radius,2) #area=3.14*(radis**2)--same
+area=pi*pow(radius,2) #area=3.14*(radius**2)--same
 print("Area of circle is->", area) #o/p: Area of circle is-> 314.768
 
 #String data formatting, python f-strings or formatted string literals--Replace data value
 print(f"Area of circle is-> {area:.2f}") #o/P:Area of circle is-> 314.77
+#.2f makes sure we want result with only decimal 2 places.
